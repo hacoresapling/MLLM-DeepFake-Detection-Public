@@ -9,6 +9,7 @@ This project evaluates the performance of Multimodal Large Language Models (MLLM
 - **Interpretability:** Analysis of MLLM reasoning through a custom-built **Artifact Taxonomy**.
 - **Interactive Demo:** A Gradio-based "DeepFake Analyzer" for real-time detection and reasoning.
 
+### 🤖 Code here：https://github.com/TempleKing/MLLM-DeepFake-Detection
 ---
 
 ## 📂 Project Structure
@@ -70,4 +71,4 @@ We recommend navigating through the folders in the orders.
 | **Gao Jing** | Report framework, FFT/CLIP baselines, MLLM benchmarking. |
 | **Zhao Kangzhe** | Prompt tuning strategy, quantitative visualization. |
 | **Sun Yaqi** | Cross-generator experiments, Error taxonomy formulation. |
-| **Yang Qi** | Category analysis, Gradio system development. |
+| **Yang Qi** | Category analysis, taxonomy for category type， Gradio system development. |
